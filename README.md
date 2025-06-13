@@ -18,7 +18,8 @@ This dashboard helps identify the most profitable neighborhoods and factors infl
 
 ## 💾 Download the Tableau Workbook
 
-📥 [Download Tableau Workbook (.twbx)](Seattle%20airbnb%20dataviz.twb)
+📥 [Download Tableau Workbook](https://github.com/ISHOOO/Seattle_airbnb_investment_dashboard/raw/main/seattle_airbnb_dataviz.twbx)
+
 
 > Open this file in Tableau Desktop to explore the dashboard interactively.
 
