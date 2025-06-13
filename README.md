@@ -12,7 +12,7 @@ This dashboard helps identify the most profitable neighborhoods and factors infl
 
 ## 🌐 Interactive Dashboard (Hosted on Tableau Public)
 
-👉 [Click here to view the live dashboard]([https://public.tableau.com/views/Seattle%20airbnb%20dataviz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/ishan.gupta7148/viz/Seattleairbnbdataviz/Dashboard1))
+👉 [Click here to view the live dashboard](https://public.tableau.com/app/profile/ishan.gupta7148/viz/Seattleairbnbdataviz/Dashboard1)
 
 ---
 
